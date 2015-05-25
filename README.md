@@ -2,9 +2,9 @@
 
 This is a basic add-on package for the [Tool-Bar Package](https://github.com/suda/tool-bar) written by:  [Suda](https://github.com/suda)
 
-It's meant to be a really basic toolbar offering practical access to a few of the great features Atom has to offer. If you want a really nice customizable package for tool-bar, check out: [Flex-Toolbar](https://github.com/cakecatz/flex-toolbar), written by: [CakeCatz](https://github.com/cakecatz).
-
 ![Screen Shot](images/screen-shot.jpeg)
+
+It's meant to be a really basic toolbar offering practical access to a few of the great features Atom has to offer. If you want a really nice customizable package for tool-bar, check out: [Flex-Toolbar](https://github.com/cakecatz/flex-toolbar), written by: [CakeCatz](https://github.com/cakecatz).
 
 ###I recommend using the 24px size setting.
 
