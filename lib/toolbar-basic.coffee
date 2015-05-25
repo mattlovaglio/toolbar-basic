@@ -12,7 +12,7 @@ module.exports =
     @toolBar = toolBar 'toolbar-basic'
 
     @toolBar.addButton
-      icon: 'file-text'
+      icon: 'file-code'
       callback: 'application:new-file'
       tooltip: 'New File'
       iconset: ''
