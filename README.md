@@ -4,6 +4,8 @@ This is a basic add-on package for the [Tool-Bar Package](https://github.com/sud
 
 It's meant to be a really basic toolbar offering practical access to a few of the great features Atom has to offer. If you want a really nice customizable package for tool-bar, check out: [Flex-Toolbar](https://github.com/cakecatz/flex-toolbar), written by: [CakeCatz](https://github.com/cakecatz).
 
+![Screen Shot](images/screen-shot.jpeg)
+
 ###I recommend using the 24px size setting.
 
 You can get away with the 16px setting, but I feel 24px is spot on. 32px is just BIG. You can change these settings in the main tool-bar package settings section. Go to Settings-->Packages-->Tool-Bar. You'll see the "Gear" Icon. That is where you can change things.
