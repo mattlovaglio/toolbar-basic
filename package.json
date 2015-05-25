@@ -1,0 +1,29 @@
+
+{
+  "name": "toolbar-basic",
+  "main": "./lib/toolbar-basic",
+  "version": "0.1.0",
+  "description": "A Basic Toolbar for SUDA's tool-bar package.",
+  "repository": "https://github.com/mattlovaglio/toolbar-basic",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "keywords": [
+    "toolbar",
+    "tool-bar",
+    "toolbar basic",
+    "tool-bar basic"
+  ],
+  "dependencies": {},
+  "packageDependencies": {
+    "tool-bar": "0.1.1"
+  },
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0.1.0": "consumeToolBar"
+      }
+    }
+  }
+}
