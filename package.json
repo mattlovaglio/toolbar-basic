@@ -1,7 +1,7 @@
 {
   "name": "toolbar-basic",
   "main": "./lib/toolbar-basic",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "A Basic Toolbar for SUDA's tool-bar package.",
   "repository": "https://github.com/mattlovaglio/toolbar-basic",
   "license": "MIT",
