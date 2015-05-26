@@ -48,12 +48,6 @@ module.exports =
       iconset: ''
 
     @toolBar.addButton
-      icon: 'three-bars'
-      callback: 'command-palette:toggle'
-      tooltip: 'Command Palette'
-      iconset: ''
-
-    @toolBar.addButton
       icon: 'gear'
       callback: 'settings-view:open'
       tooltip: 'Settings'
