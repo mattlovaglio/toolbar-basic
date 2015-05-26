@@ -18,12 +18,11 @@ You can get away with the 16px setting, but I feel 24px is spot on. 32px is just
 * Split Pane Down
 * Toggle Tree-View
 * Markdown Preview
-* Toggle Command Palette
 * Settings
 * GitHub Login (Opens Default Browser)
 * Hide Tool-Bar (To turn back on go to: Packages-->Tool Bar-->Toggle)
 
-By nature, the choice of icons and functionality is fairly opinionated. It's not my way of saying **this** is what I feel like **you** should have quick access to. I wrote it as a companion to what is at the moment, my workflow in Atom. I wanted to share it with anyone that would find it useful. 
+By nature, the choice of icons and functionality is fairly opinionated. It's not my way of saying **this** is what I feel like **you** should have quick access to. I wrote it as a companion to what is at the moment, my workflow in Atom. I wanted to share it with anyone that would find it useful.
 
 If you want a dynamic & customizable package for tool-bar, check out an alternative: [Flex-Toolbar](https://github.com/cakecatz/flex-toolbar), written by: [CakeCatz](https://github.com/cakecatz).
 
