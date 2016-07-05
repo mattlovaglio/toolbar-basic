@@ -2,7 +2,7 @@
 
 This is a basic add-on package for the [Tool-Bar Package](https://github.com/suda/tool-bar) written by:  [Suda](https://github.com/suda). It's meant to be a really basic toolbar offering practical access to a few of the great features Atom has.
 
-![Screen Shot](images/screen-shot.jpeg)
+![Screen Shot](https://raw.githubusercontent.com/mattlovaglio/toolbar-basic/master/images/screen-shot.jpeg)
 
 ###Functionality:
 
